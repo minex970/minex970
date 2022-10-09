@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="2px"/> Neeraj </h1> </div>
+<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="36px"/> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="970neerajgupta" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/970neerajgupta?trk=profile-badge">Neeraj Gupta</a></div> </h1> </div>
 
 
 # GitHub Stats : 
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minex970&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=minex970&icon=0&color=0)](https://visitcount.itsvg.in) -->
-<!-- made using https://prm.pushkaryadav.in -->
+<!-- made using https://prm.pushkaryadav.in -->              
